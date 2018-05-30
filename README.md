@@ -12,10 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+This is my TechStart Page
 ## Header 2
+I use it to post my TechStart Projects
 ### Header 3
+Come see what I've created!
 
 - Bulleted
+Project 1
 - List
 
 1. Numbered
